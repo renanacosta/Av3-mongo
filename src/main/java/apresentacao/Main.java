@@ -51,11 +51,11 @@ public class Main {
 
         //// inserir um contato
 
-        // contatoDAO.inserir(renan);
-        // contatoDAO.inserir(igor);
-        // contatoDAO.inserir(betito);
-        // contatoDAO.inserir(marcio);
-        // contatoDAO.inserir(cibele);
+        contatoDAO.inserir(renan);
+        contatoDAO.inserir(igor);
+        contatoDAO.inserir(betito);
+        contatoDAO.inserir(marcio);
+        contatoDAO.inserir(cibele);
 
         // #############################################################################
 

@@ -46,7 +46,7 @@ public class ContatoDAO {
                 .codecRegistry(codecRegistry)
                 .build();
 
-        this.database = "quatro";
+        this.database = "av3mongo";
         this.collection = "users";
         // this.contatos = "contatos";
         this.enderecos = "enderecos";
